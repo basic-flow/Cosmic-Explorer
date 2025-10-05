@@ -12,6 +12,9 @@
 
 **Cosmic Explorer** is an advanced web application that uses **machine learning** to detect potential exoplanets from astronomical data. Built with **Streamlit** and powered by **XGBoost**, this interactive platform brings the excitement of exoplanet discovery to astronomers, students, and space enthusiasts alike.
 
+[![Cosmic Explorer Demo](https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=AxiPduLq3tc)
+
+
 ---
 ## ✨ Features
 
